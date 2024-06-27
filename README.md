@@ -13,3 +13,17 @@ run pip3 install django pillow
 
 To run the website in a development server:
 cd into the repo and run python3 manage.py runserver
+
+Website Features :
+
+User Sign up/ Login
+
+Create New Listing 
+
+Bid on Item
+
+Make a comment on items
+
+Add Items in Wishlist
+
+Active Listing, Catagories page
